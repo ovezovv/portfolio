@@ -266,15 +266,15 @@ body.about-on .about-section {
 }
 .section-center {
     position: absolute;
-	width: 100%;
+width: 100%;
 	left: 0;
 	top: 50%;
 	transform: translateY(-50%);
 	z-index: 1;
 }
 .about-section img {
-    width: 100px;
-	height: 100px;
+    width: 180px;
+	height: 180px;
 	border-radius: 4px;
 	display: block;
 	margin: 0 auto;
