@@ -509,3 +509,14 @@ body.nature-on .nature-section {
     border-radius: 50%;
     box-shadow: 0 0 0 20px rgba(255,255,255,.1);
 }
+
+.works-links{
+	text-decoration: none;
+	color: #fff;
+	font-size: 1.2rem;
+	text-align: center;
+}
+
+.works-links:hover{
+	color: yellow;
+}
