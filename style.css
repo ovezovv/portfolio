@@ -95,7 +95,7 @@ a:hover {
 	display: block;
 	overflow: hidden;
 	height: 100vh;
-	background-image: url('./main-bgg.gif');
+	background-image: url('./background.jpg');
 	background-size: cover;
 	background-position: center;
 	transform: scale(1) rotateX(0);
